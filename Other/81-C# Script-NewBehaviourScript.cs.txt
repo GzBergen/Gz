@@ -1,0 +1,14 @@
+#region HeadComments
+// ********************************************************************
+//  Author：Gz
+//  Date：#CREATIONDATE#
+//  Describe：
+// *********************************************************************
+#endregion
+
+using UnityEngine;
+
+public class #SCRIPTNAME# : MonoBehaviour
+{
+}
+
